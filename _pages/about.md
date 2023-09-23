@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hugo Chardon"
+title: "Welcome to my homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd year PhD student at CREST-ENSAE, working under the supervision of Matthieu Lerasle and Jaouad Mourtada
+## About me
+I am a 2nd year PhD student at CREST-ENSAE, working under the supervision of [Matthieu Lerasle](http://lerasle.perso.math.cnrs.fr/index.html) and [Jaouad Mourtada](https://jaouadmourtada.github.io)
 

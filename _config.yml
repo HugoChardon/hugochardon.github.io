@@ -78,8 +78,7 @@ author:
   bio              : "test"
   location         : "Paris, France"
   employer         :
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :hugo dot chardon at ensae dot fr
+  email            :  "hugo dot chardon at ensae dot fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

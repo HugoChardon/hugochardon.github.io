@@ -75,11 +75,11 @@ analytics:
 author:
   name             : "Hugo Chardon"
   avatar           : "profile.png"
-  bio              : "test"
+  bio              : "PhD student in statistics"
   location         : "Paris, France"
-  employer         :
-  email            :  "hugo dot chardon at ensae dot fr"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  employer         : "CREST"
+  email            : "hugo.chardon@ensae.fr"
+  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,13 +94,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -173,7 +173,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true

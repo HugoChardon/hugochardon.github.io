@@ -75,7 +75,7 @@ analytics:
 author:
   name             : "Hugo Chardon"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "test"
   location         : "Paris, France"
   employer         :
   #googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -88,7 +88,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "hugochardon"
   google_plus      :
   keybase          :
   instagram        :

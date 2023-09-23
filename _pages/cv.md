@@ -15,15 +15,14 @@ Education
 * M.S. Mathematics- Statistics and Machine Learning, Université Paris Saclay, 2020-2021
 * Ph.D in Statistics, CREST-ENSAE, 2021-2024 (expected)
 
-{%
+{::comment}
+
 Work experience
 ======
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub %}
-  
-{%
+  * Supervisor: Professor Hub
 Skills
 ======
 * Skill 1
@@ -32,22 +31,29 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-&}
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+{:/comment}
+
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+
+{::comment}
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+{:/comment}

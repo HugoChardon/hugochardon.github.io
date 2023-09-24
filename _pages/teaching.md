@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-##Teaching Assistant
+## Teaching Assistant
 
 **Analyse Fonctionnelle et Convexe**, *Fall 2021.*
 *ENSAE, Paris.*

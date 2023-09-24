@@ -25,7 +25,6 @@ Taught by [Arnak Dalalyan](https://adalalyan.github.io/index.html)
 *ENSAE, Paris.*
 Taught by [Matthieu Lerasle](http://lerasle.perso.math.cnrs.fr/fr/publications.html)
 
-**Théorie des Probabilités**,  *Spring 2023 - 2024.*   
-*ENSAE, Paris.*  
+**Théorie des Probabilités**,  *Spring 2023 - 2024.*
+*ENSAE, Paris.*
 Taught by [Victor-Emmanuel Brunel](https://vebrunel.com)   
-[website](https://vebrunel.com/home/teaching/)

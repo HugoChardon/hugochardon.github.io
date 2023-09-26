@@ -7,7 +7,8 @@ author_profile: true
 
 **Stat Math Appli 2023.**  
 *Finite sample performance of the maximum likelihood estimator in logistic regression*.  
-Fréjus, France, July 2023.
+Fréjus, France, July 2023.  
+[slides](../files/HC_logistic_regression_frejus.pdf)
 
 **Journées de Statistique 2023**  
 *Finite sample performance of the maximum likelihood estimator in logistic regression*.  

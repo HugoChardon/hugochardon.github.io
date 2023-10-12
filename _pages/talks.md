@@ -5,13 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
-**Seminar of SAMM research group**
-
-invited by [Alain Célisse](https://www.pantheonsorbonne.fr/page-perso/acelisse)
-
+**Seminar of [SAMM](https://samm.pantheonsorbonne.fr) research group.**
+Invited by [Alain Célisse](https://www.pantheonsorbonne.fr/page-perso/acelisse).
 *Finite sample performance of the maximum likelihood estimator in logistic regression*.
-
-Paris, October 2023 
+Paris, October 2023.
 
 **Stat Math Appli 2023.**  
 *Finite sample performance of the maximum likelihood estimator in logistic regression*.  

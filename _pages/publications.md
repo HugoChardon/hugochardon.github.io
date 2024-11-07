@@ -17,6 +17,6 @@ author_profile: true
 
 ## Preprints
 
-**Finite-sample performance estimator of the maximum likelihood estimator in logistic regression**  
+**Finite-sample performance of the maximum likelihood estimator in logistic regression**  
 Hugo Chardon, Matthieu Lerasle, Jaouad Mourtada.  
 [paper](https://arxiv.org/pdf/2411.02137v1)

@@ -15,7 +15,7 @@ Education
 * M.S. Mathematics- Statistics and Machine Learning, Université Paris Saclay, 2020-2021
 * ENSAE - engineering degree, 2018-2021
 
-A detailed CV can be found [here](https://hugochardon.github.io/files/cv-hugo-chardon-mars-25.pdf).
+A detailed CV can be found [here](https://hugochardon.github.io/files/cv-hugo-chardon.pdf).
 
 {::comment}
 

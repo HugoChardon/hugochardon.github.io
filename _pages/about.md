@@ -8,19 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-## About me
+### About me
 I am a 4th year PhD student at CREST-ENSAE, working under the supervision of [Matthieu Lerasle](http://lerasle.perso.math.cnrs.fr/index.html) and [Jaouad Mourtada](https://jaouadmourtada.github.io).  
 I am also teaching coordinator at ENSAE for Statistics and Machine Learning courses.
 
-## Research interests
+### Research interests
 My current work is on non-asymptotic logistic regression. I am broadly interested in statistical learning theory, empirical processes and concentration inequalities.
 
-## Publications
-Finite-sample performance of the maximum likelihood estimator in logistic regression  
+### Publications
+*Finite-sample performance of the maximum likelihood estimator in logistic regression*  
 Hugo Chardon, Matthieu Lerasle, Jaouad Mourtada.  
-[paper](https://arxiv.org/abs/2411.02137v2)
+[arxiv](https://arxiv.org/abs/2411.02137v2), [paper](
 
-## Recent talks
-**Séminaire Parisien de Statistique, Institut Henri Poincaré** (Paris Seminar of Statistics)
-*Finite sample performance of the maximum likelihood estimator in logistic regression, and fast rates for plug-in classification*
-Paris, Institut Henri Poincaré, March 2025
+### Recent talks  
+**Séminaire Parisien de Statistique, Institut Henri Poincaré** (Paris Seminar of Statistics)  
+*Finite sample performance of the maximum likelihood estimator in logistic regression, and fast rates for plug-in classification*  
+Paris, Institut Henri Poincaré, March 2025.
+
+### Reviewing service
+I have served as a reviewer for ***The Annals of Statistics***.
+
+
+

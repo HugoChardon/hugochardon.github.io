@@ -18,7 +18,7 @@ My current work is on non-asymptotic logistic regression. I am broadly intereste
 ### Publications
 *Finite-sample performance of the maximum likelihood estimator in logistic regression*.  
 Hugo Chardon, Matthieu Lerasle, Jaouad Mourtada.  
-[arxiv](https://arxiv.org/abs/2411.02137v2)
+[arXiv](https://arxiv.org/abs/2411.02137v2)  [paper](https://hugochardon.github.io/files/paper-logistic-arxiv-v2.pdf)
 
 ### Recent talks  
 **Séminaire Parisien de Statistique, Institut Henri Poincaré** (Paris Seminar of Statistics)  

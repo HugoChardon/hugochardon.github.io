@@ -14,3 +14,13 @@ I am also teaching coordinator at ENSAE for Statistics and Machine Learning cour
 
 ## Research interests
 My current work is on non-asymptotic logistic regression. I am broadly interested in statistical learning theory, empirical processes and concentration inequalities.
+
+## Publications
+Finite-sample performance of the maximum likelihood estimator in logistic regression  
+Hugo Chardon, Matthieu Lerasle, Jaouad Mourtada.  
+[paper](https://arxiv.org/abs/2411.02137v2)
+
+## Recent talks
+**Séminaire Parisien de Statistique, Institut Henri Poincaré** (Paris Seminar of Statistics)
+*Finite sample performance of the maximum likelihood estimator in logistic regression, and fast rates for plug-in classification*
+Paris, Institut Henri Poincaré, March 2025

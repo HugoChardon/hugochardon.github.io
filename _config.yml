@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hugo Chardon"
 title_separator          : "-"
 name                     : &name "Hugo Chardon"
-description              : &description "PhD student in mathematical statistics"
+description              : &description "Neyman Visiting Assistant Professor"
 url                      : https://hugochardon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hugochardon/hugochardon.github.io"
@@ -75,10 +75,10 @@ analytics:
 author:
   name             : "Hugo Chardon"
   avatar           : "portraitCRESTcropped.jpeg"
-  bio              : "PhD student in statistics"
-  location         : "Paris, France"
-  employer         : "CREST"
-  email            : "hugo.chardon@ensae.fr"
+  bio              : "Neyman Visiting Assistant Professor"
+  location         : "Berkeley, California"
+  employer         : "UC Berkeley, Department of Statistics"
+  email            : "hchardon@berkeley.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

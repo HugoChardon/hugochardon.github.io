@@ -7,7 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-## Teaching Assistant
+## Instructor (UC Berkeley)
+
+**[Stat 20](https://stat20.berkeley.edu): Introduction to probability and statistics**, *Fall 2025*
+[course website](https://stat20.berkeley.edu/fall-2025/)
+
+
+
+
+## Teaching Assistant (ENSAE)
 
 **Analyse Fonctionnelle et Convexe**, *Fall 2021.*
 *ENSAE, Paris.*

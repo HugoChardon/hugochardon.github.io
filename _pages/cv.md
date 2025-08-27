@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistics, CREST-ENSAE, 2021-current
+* Ph.D in Statistics, CREST-ENSAE, 2021-2025
 * M.S. Mathematics- Statistics and Machine Learning, Université Paris Saclay, 2020-2021
 * ENSAE - engineering degree, 2018-2021
 

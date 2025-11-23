@@ -77,7 +77,8 @@ author:
   avatar           : "portraitCRESTcropped.jpeg"
   bio              : "Neyman Visiting Assistant Professor"
   location         : "Berkeley, California"
-  employer         : "UC Berkeley, Department of Statistics"
+  employer         : "UC Berkeley,
+                      Department of Statistics"
   email            : "hchardon@berkeley.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

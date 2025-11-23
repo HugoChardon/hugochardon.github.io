@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### About me
-I am a Neyman Visiting Assistant Professor in the Department of Statistics at UC Berkeley. Prior to that, I completed my PhD at CREST-ENSAE, under the supervision of [Matthieu Lerasle](http://lerasle.perso.math.cnrs.fr/index.html) and [Jaouad Mourtada](https://jaouadmourtada.github.io).  
+I am a Neyman Visiting Assistant Professor in the Department of Statistics at UC Berkeley. Prior to that, I completed my PhD at CREST-ENSAE, under the supervision of [Matthieu Lerasle](http://lerasle.perso.math.cnrs.fr/index.html) and [Jaouad Mourtada](https://jaouadmourtada.github.io). The manuscript can be found [here](https://hugochardon.github.io/files/Manuscrit-HC.pdf).
 I was also teaching coordinator at ENSAE for Statistics and Machine Learning courses.
 
 ### Research interests

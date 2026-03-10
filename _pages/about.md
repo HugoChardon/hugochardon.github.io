@@ -11,10 +11,10 @@ redirect_from:
 ### About me
 I am a Neyman Visiting Assistant Professor in the Department of Statistics at UC Berkeley. Prior to that, I completed my PhD at CREST-ENSAE, under the supervision of [Matthieu Lerasle](http://lerasle.perso.math.cnrs.fr/index.html) and [Jaouad Mourtada](https://jaouadmourtada.github.io). I defended my Ph.D. on June 26, 2025. The manuscript can be found [here](https://hugochardon.github.io/files/Manuscrit-HC.pdf).
 
-I was also teaching coordinator at ENSAE for Statistics and Machine Learning courses.
+I was also teaching coordinator at ENSAE for Statistics and Machine Learning courses during the academic year 2024-2025.
 
 ### Research interests
-My current work is on non-asymptotic logistic regression. I am broadly interested in statistical learning theory, empirical processes and concentration inequalities.
+Nonasymptotic statistics, statistical learning theory, empirical processes and concentration inequalities.
 
 ### Publications
 
@@ -27,13 +27,19 @@ Hugo Chardon, Matthieu Lerasle, Jaouad Mourtada.
 *Finite-sample theory for maximum-likelihood estimation in logistic regression*  
 [manuscript](https://hugochardon.github.io/files/Manuscrit-HC.pdf)
 
-### Recent talks  
+### Recent talks
+
+**Probability Seminar, Department of Mathematics, UC Berkeley**  
+*Nonasymptotic phase transition in the logistic model*
+UC Berkeley, November 2025.
+
+
 **Séminaire Parisien de Statistique, Institut Henri Poincaré** (Paris Seminar of Statistics)  
 *Finite sample performance of the maximum likelihood estimator in logistic regression, and fast rates for plug-in classification*.  
 Paris, Institut Henri Poincaré, March 2025.
 
 ### Reviewing service
-I have served as a reviewer for ***The Annals of Statistics***.
+I have served as a reviewer for *The Annals of Statistics*.
 
 
 

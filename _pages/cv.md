@@ -9,11 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+Current position
+======
+Neyman Visiting Assistant Professor (since Aug. 2025)
+
+
 Education
 ======
-* Ph.D in Statistics, CREST-ENSAE, 2021-2025
-* M.S. Mathematics- Statistics and Machine Learning, Université Paris Saclay, 2020-2021
-* ENSAE - engineering degree, 2018-2021
+* Ph.D in Statistics, CREST-ENSAE, 2021-2025.
+* M.S. Mathematics- Statistics and Machine Learning, Université Paris Saclay, 2020-2021.
+* ENSAE Paris -- engineering degree, 2018-2021.
 
 A detailed CV can be found [here](https://hugochardon.github.io/files/cv-hugo-chardon.pdf).
 

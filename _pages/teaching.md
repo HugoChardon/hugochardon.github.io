@@ -10,7 +10,10 @@ author_profile: true
 ## Instructor (UC Berkeley)
 
 **[Stat 20](https://stat20.berkeley.edu): Introduction to probability and statistics**, *Fall 2025*
-[course website](https://stat20.berkeley.edu/fall-2025/)
+[course website](https://stat20.berkeley.edu/fall-2025/)  
+
+**[Stat 154/254: Modern Statistical Prediction and Machine Learning](https://stat154.berkeley.edu/spring-2026/)**  
+*Upper division-undergraduate/graduate course, Spring 2026*.
 
 
 

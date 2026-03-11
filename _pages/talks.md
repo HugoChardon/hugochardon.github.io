@@ -4,6 +4,15 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+
+**Berkeley Probability [Seminar](https://events.berkeley.edu/probability-seminar)**  
+*Nonasymptotic phase transition in the logit model*  
+Department of Mathematics, UC Berkeley.
+
+**Journées de Statistique 2025**  
+*Fast rates for classification with light-tailed predictors under margin condition*  
+Université Aix-Marseille.
+
 **Séminaire Parisien de Statistique, Institut Henri Poincaré** (Paris Seminar of Statistics)  
 *Finite sample performance of the maximum likelihood estimator in logistic regression, and fast rates for plug-in classification*.  
 Paris, Institut Henri Poincaré, March 2025.

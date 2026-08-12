@@ -11,7 +11,7 @@ redirect_from:
 
 Positions
 ======
-- Neyman Visiting Assistant Professor (since Aug. 2025)
+- Neyman Fellow (since Aug. 2025)
 - Teaching coordinator at ENSAE for Statistics and Machine Learning courses (Sep. 2024 - Jul. 2025).
 
 

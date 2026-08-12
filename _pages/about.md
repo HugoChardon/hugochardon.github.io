@@ -36,7 +36,7 @@ Hugo Chardon, Matthieu Lerasle, Jaouad Mourtada.\
 
 **Ph.D. dissertation**\
 *Finite-sample theory for maximum-likelihood estimation in logistic regression*\
-[manuscript](https://hugochardon.github.io/files/Manuscrit-HC.pdf) \; [Hal version](https://hal.science/tel-05677026v1)
+[manuscript](https://hugochardon.github.io/files/Manuscrit-HC.pdf)  [Hal version](https://hal.science/tel-05677026v1)
 
 ### Recent talks
 

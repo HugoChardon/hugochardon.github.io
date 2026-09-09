@@ -38,11 +38,11 @@ Hugo Chardon, Matthieu Lerasle, Jaouad Mourtada.\
 *Finite-sample theory for maximum-likelihood estimation in logistic regression*\
 [manuscript](https://hugochardon.github.io/files/Manuscrit-HC.pdf)  [Hal version](https://hal.science/tel-05677026v1)
 
-### Recent talks
+<!-- ### Recent talks
 
 **Probability Seminar, Department of Mathematics, UC Berkeley**\
 *Nonasymptotic phase transition in the logistic model*\
-UC Berkeley, November 2025.
+UC Berkeley, November 2025. -->
 
 <!-- **Séminaire Parisien de Statistique, Institut Henri Poincaré** (Paris Seminar of Statistics)\
 *Finite sample performance of the maximum likelihood estimator in logistic regression, and fast rates for plug-in classification*.\

@@ -74,10 +74,10 @@ analytics:
 # Site Author
 author:
   name             : "Hugo Chardon"
-  avatar           : "portraitCRESTcropped.jpeg"
+  avatar           : "hc-sep26.jpeg"
   bio              : "Neyman Visiting Assistant Professor"
   location         : "Berkeley, California"
-  employer         : "UC Berkeley \\
+  employer         : "UC Berkeley,
                       Department of Statistics"
   email            : "hchardon@berkeley.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -88,7 +88,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hugochardon"
+  github           :
   googlescholar    : "https://scholar.google.fr/citations?user=HmNggn4AAAAJ&hl=fr"
   google_plus      :
   keybase          :
